@@ -5,19 +5,30 @@ SDG Chosen: Sustainable Cities and Communities (SDG 11)
 
 
 Team Members:
+
 Dhyaanesh a/l Anbuselvan Role: Group Leader
+
 Focus: Project Foundation & Documentation Management
+
 Chin Kok Hao Role: The Quality Assurance (QA) & Finalizer
+
 Focus: Agile Artifacts & Prototype Development
+
 Chia Vern Roong Vernard Role: The Systems Architect
+
 Focus: Analysis & Design (Technical Documentation)
+
 Chan Kuan Kune Role: The Scrum Master & Developer 
+
 Focus:Testing, Evaluation
+
 Hoan Wan Si Role: In charge of Presentation Slides and Report
+
 Focus: Professionalism, Presentation
 
 
 Project Description:
+
 This project is designed to solve a real-world friction point aligned with Sustainable Development Goal 11: Sustainable Cities and Communities. Our goal is to create a prototype that makes urban living smoother and more inclusive through smart technology. This project aims to help communities to solve urban issues and deal directly and easier with the authorities in charge.
 
 
